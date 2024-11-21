@@ -52,17 +52,17 @@ Electronics > Video > Televisions > Flat Panel Televisions
 </g:title>
 <g:description>
 <![CDATA[
-Episodes 7-13 from the third series of the BBC fantasy drama set in the mythical city of Camelot, telling the tale of the relationship between the young King Arthur (Bradley James) & Merlin (Colin Morgan), the wise sorcerer who guides him to power and beyond. Episodes are: 'The Castle of Fyrien', 'The Eye of the Phoenix', 'Love in the Time of Dragons', 'Queen of Hearts', 'The Sorcerer's Shadow', 'The Coming of Arthur: Part 1' & 'The Coming of Arthur: Part 2'
+Episodes 7-13 from the third series of the BBC fantasy drama set in the mythical city of Camelot, telling the tale of the relationship between the young King Arthur (Bradley James) &amp; Merlin (Colin Morgan), the wise sorcerer who guides him to power and beyond. Episodes are: 'The Castle of Fyrien', 'The Eye of the Phoenix', 'Love in the Time of Dragons', 'Queen of Hearts', 'The Sorcerer's Shadow', 'The Coming of Arthur: Part 1' &amp; 'The Coming of Arthur: Part 2'
 ]]>
 </g:description>
 <g:link>
 <![CDATA[
-http://www.example.com/media/dvd/?sku=384616&src=gshopping&lang=en
+http://www.example.com/media/dvd/?sku=384616&amp;src=gshopping&amp;lang=en
 ]]>
 </g:link>
 <g:image_link>
 <![CDATA[
-http://images.example.com/DVD-0564738?size=large&format=PNG
+http://images.example.com/DVD-0564738?size=large&amp;format=PNG
 ]]>
 </g:image_link>
 <g:condition>new</g:condition>
@@ -82,13 +82,13 @@ http://images.example.com/DVD-0564738?size=large&format=PNG
  The following attribute is required because this item is in the 'Media' category 
 -->
 <g:google_product_category>
-<![CDATA[ Media > DVDs & Videos ]]>
+<![CDATA[ Media > DVDs &amp; Videos ]]>
 </g:google_product_category>
 <!--
  The following attributes are not required for this item, but supplying them is recommended if applicable 
 -->
 <g:product_type>
-<![CDATA[ DVDs & Movies > TV Series > Fantasy Drama ]]>
+<![CDATA[ DVDs &amp; Movies > TV Series > Fantasy Drama ]]>
 </g:product_type>
 </item>
 <!--
@@ -129,10 +129,10 @@ http://www.example.com/perfumes/product?Dior%20Capture%20R6080%20XP
  The following attributes are not required for this item, but supplying them is recommended if applicable 
 -->
 <g:product_type>
-Health & Beauty > Personal Care > Cosmetics > Skin Care > Lotion
+Health &amp; Beauty > Personal Care > Cosmetics > Skin Care > Lotion
 </g:product_type>
 <g:google_product_category>
-Health & Beauty > Personal Care > Cosmetics > Skin Care > Anti-Aging Skin Care Kits
+Health &amp; Beauty > Personal Care > Cosmetics > Skin Care > Anti-Aging Skin Care Kits
 </g:google_product_category>
 <g:additional_image_link>http://images.example.com/PFM654321_2.jpg</g:additional_image_link>
 <g:additional_image_link>http://images.example.com/PFM654321_3.jpg</g:additional_image_link>
@@ -155,8 +155,8 @@ http://www.example.com/clothing/women/Roma-Cotton-Bootcut-Jeans/?extid=CLO-29473
 <!--
  The following attributes are required because this item is apparel 
 -->
-<g:google_product_category>Apparel & Accessories > Clothing > Pants > Jeans</g:google_product_category>
-<g:brand>M&S</g:brand>
+<g:google_product_category>Apparel &amp; Accessories > Clothing > Pants > Jeans</g:google_product_category>
+<g:brand>M&amp;S</g:brand>
 <g:gender>Female</g:gender>
 <g:age_group>Adult</g:age_group>
 <g:color>Navy</g:color>
@@ -191,8 +191,8 @@ http://www.example.com/clothing/women/Roma-Cotton-Bootcut-Jeans/?extid=CLO-29473
 <!--
  The following attributes are required because this item is apparel 
 -->
-<g:google_product_category>Apparel & Accessories > Clothing > Pants > Jeans</g:google_product_category>
-<g:brand>M&S</g:brand>
+<g:google_product_category>Apparel &amp; Accessories > Clothing > Pants > Jeans</g:google_product_category>
+<g:brand>M&amp;S</g:brand>
 <g:gender>Female</g:gender>
 <g:age_group>Adult</g:age_group>
 <g:color>Navy</g:color>
@@ -220,7 +220,7 @@ http://www.example.com/clothing/women/Roma-Cotton-Bootcut-Jeans/?extid=CLO-29473
 A ladies' cycling jersey designed for the serious cyclist, tailored to fit a feminine frame. This sporty, vibrant red, black and white jersey is constructed of a special polyester weave that is extremely effective at drawing moisture away from your body, helping to keep you dry. With an elasticised, gripping waist, it will stay in place for the duration of your cycle, and won't creep up like many other products. It has two elasticised rear pockets and the sleeves are elasticated to prevent creep-up.
 </g:description>
 <g:link>
-http://www.example.com/clothing/sports/product?id=CLO1029384&src=gshopping&popup=false
+http://www.example.com/clothing/sports/product?id=CLO1029384&amp;src=gshopping&amp;popup=false
 </g:link>
 <g:image_link>http://images.example.com/CLO-1029384.jpg</g:image_link>
 <g:condition>new</g:condition>
@@ -236,7 +236,7 @@ http://www.example.com/clothing/sports/product?id=CLO1029384&src=gshopping&popup
 -->
 <g:brand>Tenn Cool</g:brand>
 <g:google_product_category>
-Apparel & Accessories > Clothing > Activewear > Bicycle Activewear > Bicycle Jerseys
+Apparel &amp; Accessories > Clothing > Activewear > Bicycle Activewear > Bicycle Jerseys
 </g:google_product_category>
 <g:gender>Female</g:gender>
 <g:age_group>Adult</g:age_group>
