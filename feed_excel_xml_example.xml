@@ -1,693 +1,694 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mso-application progid="Excel.Sheet"/>
-<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="https://www.w3.org/TR/html401/"/>
-<Worksheet ss:Name="CognaLearn+Intedashboard">
-  <Table>
-    <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
-    <Row>
-      <Cell>
-        <Data ss:Type="String">title</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">image_link</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">price</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">currency</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">sku</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">category</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">sub_category</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">url</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">description</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">availability</Data>
-      </Cell>
-      <Cell>
-        <Data ss:Type="String">feed_id</Data>
-      </Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Azúcar Los Tulipanes, Morena de Caña Fortificada con Vitamina A - 2000g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/509561-800-600?v=638468913976870000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">17.10</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">781179001387</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Azúcar</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/azucar-los-tulipanes-morena-de-ca-a-2000gr/p</Cell>
-      <Cell ss:Type="String">El azucar morena de caña se obtiene a partir de la caña de azúcar. Se trata de un azúcar integral, que conserva todos sus nutrientes. Posee un sabor ligeramente más intenso que el azúcar blanco y un color marrón oscuro. Se recomienda para hornear o para endulzar bebidas calientes.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Azúcar Blanca Caña Real, Fortificada con Vitamina A  - 2500g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531053-800-600?v=638537361270400000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">21.75</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">781179001059</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Azúcar</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/azucar-ca-a-real-blanca-2500g/p</Cell>
-      <Cell ss:Type="String">El azucar es una sustancia que se obtiene a partir de la caña de azúcar. La caña de azúcar se riega con agua para que se ablande, se corta en pedazos y se muelen. El azúcar se puede utilizar para endulzar bebidas y alimentos</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Pasta larga Ina Espagueti - 200gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/400223-800-600?v=638309182236400000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">4.35</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">753081002004</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Spaghetti</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/pasta-ina-espaguetti-200gr/p</Cell>
-      <Cell ss:Type="String">Prepara esta deliciosa pasta y sorprende a tu familia con un platillo especial lleno de amor.?? Cocina con amor, cocina con Pasta Ina</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Frijol Ducal Molido Negro Doy Pack - 993gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/451907-800-600?v=638416329343600000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">14.25</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">88313005301</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Frijoles instantáneos</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/frijol-ducal-molido-negro-doy-pack-993gr/p</Cell>
-      <Cell ss:Type="String">Frijol Ducal Molido Negro Doy Pack - 993gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Sal B&amp;amp;Z Yodada Artesanal - 920gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/243234-800-600?v=637798886876400000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">2.70</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7401010533299</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Sal y Condimentos</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/sal-byz-corriente-920gr/p</Cell>
-      <Cell ss:Type="String">Sal B&amp;Z Yodada Artesanal - 920gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Frijol Albay Negro En Grano - 400gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510112-800-600?v=638469455439570000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">9.90</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7404003090519</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Frijol</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/frijol-albay-negro-en-grano-400gr/p</Cell>
-      <Cell ss:Type="String">Frijol Albay Negro En Grano - 400gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Arroz Gallo Dorado Precocido - 400gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/190565-800-600?v=637629530983000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">8.25</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7401002902676</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Arroz</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/arroz-gallo-dorado-precocido-400gr/p</Cell>
-      <Cell ss:Type="String">Arroz Gallo Dorado Precocido - 400gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Galletas Oreo Sabor Original 36g Uds 12 Pack - 432g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/406435-800-600?v=638316315485770000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">28.40</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7590011151110</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Galletas Dulces</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/galleta-nabisco-oreo-regular-432gr/p</Cell>
-      <Cell ss:Type="String">Doble Galleta Oreo Original de chocolate rellena con Crema Sabor a Vainilla en formato de 12 paquetes individuales de 36g</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Frijol Ducal  Molido Negro Doy Pack - 400gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/476181-800-600?v=638423239331930000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">8.95</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">88313261448</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Frijoles instantáneos</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/frijol-ducal-volteado-negro-doy-pack-400gr/p</Cell>
-      <Cell ss:Type="String">Frijol molido con sabor casero y listos para comer, disponible en variedades rojo y negro. Preparados de forma natural, sin preservantes y fortificado con Hierro + Vitaminas del complejo B.,Frijoles Ducal es la marca preferida de todos los centroamericanos por su sabor casero, conveniencia y practicidad. Ya sea en una cena familiar, una noche de series, una reunión con amigos, el almuerzo en la oficina o una celebración en equipo, Ducal para todos tus momentos.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Arroz Molinero Blanco - 1000gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510419-800-600?v=638469562332430000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">17.20</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7401002900955</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Arroz</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/arroz-molinero-blanco-1000gr/p</Cell>
-      <Cell ss:Type="String">Arroz Molinero Blanco - 1000gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Galleta Gama Dulce Waffer Sabor Vainilla 12 Unidades - 240gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/400264-800-600?v=638309182443370000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">11.25</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">753081008938</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Galletas Dulces</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/waffer-gama-galleta-gama-240gr/p</Cell>
-      <Cell ss:Type="String">Deliciosas galletas Waffle sabor vainilla para acompañar tus postres favoritos. ¡Mixealas como se te de la GAMA!</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Pasta Corta Ina Tipo Codito Mediano - 200g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/509395-800-600?v=638468590016370000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">4.35</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">753081004305</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Pasta Especial</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/pasta-ina-codito-mediano-bolsa-200gr/p</Cell>
-      <Cell ss:Type="String">Prepara esta deliciosa pasta y sorprende a tu familia con un platillo especial lleno de amor.?? Cocina con amor, cocina con Pasta Ina</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Sal Yaesta Refinada De Mesa Yodada - 400gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510122-800-600?v=638469455569030000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">2.20</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">758437069496</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Sal y Condimentos</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/sal-yaesta-refinada-de-mesa-yodada-400gr/p</Cell>
-      <Cell ss:Type="String">Sal Yaesta Refinada De Mesa Yodada - 400gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Salsa Tomate Naturas Con Queso - 90g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/415980-800-600?v=638330998506000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">3.60</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7411000344842</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Salsa para Pasta y Pizza</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/naturas-salsa-tomate-con-queso-106gr/p</Cell>
-      <Cell ss:Type="String">Salsa Queso Natura’s ® lista para usar, es una salsita con el característico sabor del queso, preparada sobre una base de tomates seleccionados y cuidadosamente procesados, con pequeños trocitos de queso y especias que le aportan un sabor balanceado.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Sopa Maggi de Pollo con Fideos Sobre -55 g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/497543-800-600?v=638451853173900000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">2.80</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7613035396203</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Pasta y Sopa Instantánea</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/maggi-sopa-pollo-con-fideos-sobre-57g/p</Cell>
-      <Cell ss:Type="String">Sopa Pollo con Fideos fortificada con hierro. Es baja en grasa y con trocitos de ingredientes que tu conoces como zanahoria, cebolla y ajo. Además puedes añadir los ingredientes que mas te gusten y disfrutar de una deliciosa sopa un sabor único. - La reducción de tamaño del empaque de Sopas y Cremas Maggi, contribuyo a reducir el uso de +60 toneladas de plástico virgen anuales en Nestlé Centroamérica. Recuperamos a gran escala los empaques polilaminados posconsumo. Hoy recibimos este material en más de 20 puntos de acopio permanentes en todo el país. Incluida la estación de reciclaje en Walmart Curridabat.Empaques reducidos significativamente, reuso inteligente de los materiales y\u002Fo reciclables, y\u002Fo que evitan el desperdicio de alimentos</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">3 Pack Atún Calvo En Agua - 426gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454883-800-600?v=638416438425630000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">33.00</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7410031397315</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Atún y Pescado</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/3-pack-atun-calvo-en-agua-426gr/p</Cell>
-      <Cell ss:Type="String">3 Pack Atún Calvo En Agua - 426gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Galleta Gama Salada - 192gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/452006-800-600?v=638416329878230000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">8.65</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">753079200306</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Galletas Saladas</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/galleta-gama-salada-192gr/p</Cell>
-      <Cell ss:Type="String">Galleta Gama Salada - 192gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Salsa Tomate Naturas Ranchera - 90g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/414469-800-600?v=638328299888070000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">3.60</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7411000344859</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Salsa para Pasta y Pizza</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/salsita-naturas-de-tomate-ranchera-106gr/p</Cell>
-      <Cell ss:Type="String">La Salsa Ranchera Natura’s ® es una salsita tradicional y lista para usar, \ncon los auténticos sabores centroamericanos. Está preparada sobre una \nbase de tomates seleccionados y cuidadosamente procesados, a la que \nse añade una mezcla de trozos de vegetales como cebolla, chile, jalapeño \ny especias, que aportan el sabor característico y una nota picante que la \nhace irresistible. Su sabor es muy versátil y se puede usar en pollos, \ncarnes de res o de cerdo, en pastas, tortillas o enchiladas, entre otras \nrecetas.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Pasta larga Litaliana Espagueti - 200gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/426942-800-600?v=638366639258100000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">2.80</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">753081062008</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Spaghetti</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/pasta-litaliana-espagueti-200-gr/p</Cell>
-      <Cell ss:Type="String">Espaguetti L'Italiana, el sabor que abunda más.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Galletas Chiky Pozuelo, Chocolate -480g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/483978-800-600?v=638428521721100000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">24.05</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">86581010881</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Galletas Dulces</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/galleta-pozuelo-chiky-chocolate-480gr/p</Cell>
-      <Cell ss:Type="String">Galleta de vainilla con cobertura sabor a chocolate (12 paquetes)</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Canela Sasson Raja Verde - 22gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/452204-800-600?v=638416330992470000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">8.20</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">760573092917</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Especias</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/canela-sasson-raja-verde-22gr/p</Cell>
-      <Cell ss:Type="String">Canela Sasson Raja Verde - 22gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Arroz Gallo Dorado Precocido - 1kg</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/190610-800-600?v=637629531405500000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">18.95</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7401002911128</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Arroz</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/arroz-gallo-dorado-precocido-1kg/p</Cell>
-      <Cell ss:Type="String">Arroz Gallo Dorado Precocido - 1kg</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Rosa De Jamaica Hf Santa Ana Bols 113 Gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510067-800-600?v=638469455263000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">21.00</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7404000940015</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Té Medicinales</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/rosa-de-jamaica-hf-santa-ana-bols-113-gr/p</Cell>
-      <Cell ss:Type="String">Rosa De Jamaica Hf Santa Ana Bolsa</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Nachos Los Cebollines Original - 390gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/447256-800-600?v=638415141489300000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">22.75</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7406309001824</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Papas y frituras</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/nachos-los-cebollines-original-390gr/p</Cell>
-      <Cell ss:Type="String">Nachos Los Cebollines Original - 390gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Pasta Roma Tipo Espaguetti - 200g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/508182-800-600?v=638467835319030000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">4.35</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">731701101047</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Spaghetti</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/pasta-roma-espaguetti-200gr/p</Cell>
-      <Cell ss:Type="String">Pasta Roma es una pasta de espagueti de 200 gramos. Es una pasta hecha a mano con harina de trigo, huevos, agua y sal. Tiene una textura fina y es perfecta para preparar una variedad de platos italianos - La organización a través de los años ha venido ejecutando proyectos que contribuyan a minimizar el impacto en el cambio climático, así su adaptación, de los cuales se desglosa a continuación:   Instalación de paneles solares en el centro de distribución en el Coyol de Alajuela.  \u002F Se llevan controles y registros sobre los consumos e indicadores de desempeño ambiental, con el fin de minimizar la cantidad de reprocesos, consumo de materias primas a un nivel óptimo esto incluye aguas, energía eléctrica y combustibles fósiles. \u002F  Instalación de un  sistema de captación de hollín en las calderas de la planta de producción con el fin de capturar el particulado que va hacia la atmósfera.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Sal Sabemas De Cocina - 907gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454665-800-600?v=638416437129470000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">2.55</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7406131006271</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Sal y Condimentos</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/sal-sabemas-de-cocina-907gr/p</Cell>
-      <Cell ss:Type="String">Sal Seca Granulada es un producto elaborado con sal marina y otros ingredientes de la mejor calidad, que le dan un sabor único. Es ideal para condimentar carnes, aves, pescados, sopas, guisados y demás platos. Tiene una presentación en forma de gránulos, que le permite liberar el sabor de forma gradual. Pesa 907gr.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Arroz Molinero Blanco  - 400gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/452167-800-600?v=638416330788100000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">7.45</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7401002902669</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Arroz</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/arroz-molinero-blanco-400gr/p</Cell>
-      <Cell ss:Type="String">Arroz Molinero Blanco  - 400gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Azúcar Caña Real, Blanca - 500g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/509544-800-600?v=638468913901900000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">4.60</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">781179001035</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Azúcar</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/azucar-ca-a-real-blanca-500gr/p</Cell>
-      <Cell ss:Type="String">Azucar Caña Real Blanca - 500gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Cereal Kellogg&amp;#x27;s® Corn Flakes - 800 g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/541342-800-600?v=638548500316870000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">33.75</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7501008041697</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Cereal Dulce</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/cereal-corn-flakes-kellogg-800gr/p</Cell>
-      <Cell ss:Type="String">Cereal Corn Flakes Kellogg - 800gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Salsa Tomate Naturas Italiana Clásica -  90g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/415368-800-600?v=638330784081870000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">3.60</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7411000344293</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Salsa para Pasta y Pizza</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/salsa-preparada-naturas-italiana-clasica-106gr/p</Cell>
-      <Cell ss:Type="String">La Salsa Italiana Natura’s ® es una salsita lista para usar, preparada sobre una base de tomates seleccionados y cuidadosamente procesados, combinados con albahaca en pequeños trocitos que le aportan toda la frescura del sabor italiano.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Masa Maseca - 2000gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454826-800-600?v=638416438097330000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">32.75</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7401056950531</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Harina de Trigo y Maíz</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/harina-maseca-de-maiz-bolsa-4-4lb/p</Cell>
-      <Cell ss:Type="String">Maseca es el auténtico sabor de nuestras tradiciones y los platillos que nos hacen sentir en casa, porque es nuestra harina elaborada 100% con maíz seleccionado, nuestro alimento fundamental por siglos. Con Maseca en tus manos nutres a tu familia y transformas los momentos con los deliciosos sabores de nuestras tortillas, pupusas, tamales, biscochos y más delicias de nuestra cocina centroamericana</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Aceite Mazola Natural Blend - 800ml</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531046-800-600?v=638537361205900000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">23.25</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">750894621606</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Aceite de Semillas y Vegetal</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/aceite-mazola-natural-blend-800ml/p</Cell>
-      <Cell ss:Type="String">Aceite Mazola Natural Blend - 800ml</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Frijol Albay Rojo En Grano - 400gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510496-800-600?v=638469777821700000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">11.50</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7404003090588</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Frijol</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/frijol-albay-rojo-en-grano-400gr/p</Cell>
-      <Cell ss:Type="String">Frijol Albay Rojo En Grano - 400gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Boquitas Milpa Real Tostadas Onduladas - 360gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454630-800-600?v=638416436927470000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">19.80</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7441029500141</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Papas y frituras</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/boquitas-milpa-real-tostadas-360gr/p</Cell>
-      <Cell ss:Type="String">Boquitas Milpa Real Tostadas 360 gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Sopa Laky Men De Pollo Instantanea - 75gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/480781-800-600?v=638423555527600000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">5.65</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7404001800011</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Pasta y Sopa Instantánea</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/sopa-laky-men-de-pollo-instantanea-75gr/p</Cell>
-      <Cell ss:Type="String">Sopa Laky Men De Pollo Instantanea - 75gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Pasta Roma Plumas - 200gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531037-800-600?v=638537361108200000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">5.05</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">731701101467</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Fusilli</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/pasta-roma-plumas-200gr/p</Cell>
-      <Cell ss:Type="String">Pasta Roma Plumas - 200gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Aceite Borges Oliva Extra Virgen Botella - 250ml</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/312852-800-600?v=638019098861870000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">45.00</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">8410179100050</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Aceite de Oliva</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/aceite-borges-oliva-extra-virgen-botella-250ml/p</Cell>
-      <Cell ss:Type="String">Aceite Borges Oliva Extra Virgen Botella - 250ml</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Frijol Ducal Rojo Molido Doy Pack - 993gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/276237-800-600?v=637903318219330000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">15.50</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">88313005318</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Frijoles instantáneos</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/frijol-ducal-rojo-molido-doy-pack-993gr/p</Cell>
-      <Cell ss:Type="String">Frijol Ducal Rojo Molido Doy Pack - 993gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Galleta Salada Gama Soda 8 Unidades - 192gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/374963-800-600?v=638228722506830000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">8.65</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">753079200009</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Galletas Saladas</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/galleta-gama-soda-192gr/p</Cell>
-      <Cell ss:Type="String">Crujientes y deliciosas, solas o acompañadas, tus galletas favoritas, combinalas cómo se te dé la GAMA.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Hot Cake Gold Medal Sabor Original - 1350gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/547261-800-600?v=638557038134500000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">32.50</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7099940150404</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Para Hot Cakes</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/hot-cake-gold-medal-original-1350gr/p</Cell>
-      <Cell ss:Type="String">Consentir en cualquier momento sabe mejor con nuestra premezclas Hot Cake Mix, la forma más fácil de hacer panqueques para compartir.,Gold Medal, la base para consentirte.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Pasta Ina Chao Mein sin Soya -180gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/390332-800-600?v=638283262064000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">5.00</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">753081100007</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Pasta Especial</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/pasta-ina-chao-mein-sin-soya-180gr/p</Cell>
-      <Cell ss:Type="String">Chao Mein Ina, es un fideo producido a base de harina de trigo. En su elaboración se aplican buenas prácticas de manufactura adecuadas para la producción de pastas asiáticas que son nuestra especialidad</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Harina de Maíz Maseca Extra Suave - 820gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454868-800-600?v=638416438333000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">13.50</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7401056950678</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Harina de Trigo y Maíz</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/harina-de-maiz-maseca-820gr/p</Cell>
-      <Cell ss:Type="String">Maseca Extra Suave es una harina 100% puro maíz natural, brinda mayor suavidad en el amasado y facilidad de llegarle al punto en comparación con otras harinas de maíz, permitiéndole a la consumidora preparar fácilmente unas ricas y suavecitas tortillas para complacer a su familia y a un precio accesible.elaborada mediante un proceso especializado que le da la consistencia ideal, más fina, que brinda una mayor suavidad.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Avena Mosh Quaker, Nutremas - 900g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531062-800-600?v=638537361325630000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">20.00</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">803275305562</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Avena y Granola</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/avena-quaker-nutremas-mosh-900gr/p</Cell>
-      <Cell ss:Type="String">Avena Mosh Quaker NUTREMAS que te ayuda a prevenir la anemia, con hierro, vitamina B12 y ácido fólico. Para que inicies tu día con más enegía, disfrutando de todos los beneficios que ofrece la avena!</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Tostaditas Sanissimo Maíz - 144gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/502520-800-600?v=638458765099930000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">21.00</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">658480001101</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Galletas Saladas</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/galleta-de-maiz-sanissimo-salmas-144gr/p</Cell>
-      <Cell ss:Type="String">Galleta Tostaditas Sanissimo Maiz 144 Gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Six Pack Bebida Incaparina Sabor Original</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/307656-800-600?v=638007651743370000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">16.10</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7406007082774</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Bebida de Soya</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/six-pack-bebida-incaparina-sabor-original/p</Cell>
-      <Cell ss:Type="String">Six Pack Bebida Incaparina Sabor Original</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Mezcla Para Hot Cakes Gold Medal, Sabor Original - 908g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510089-800-600?v=638469455347270000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">28.00</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7099940150145</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Para Hot Cakes</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/mezcla-gold-medal-panqueque-original-908gr/p</Cell>
-      <Cell ss:Type="String">Consentir en cualquier momento sabe mejor con nuestra premezclas Hot Cake Mix, la forma más fácil de hacer panqueques para compartir.,Gold Medal, la base para consentirte.</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Mayonesa Hellmanns, Light - 380g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454615-800-600?v=638416436849530000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">18.50</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7411000342961</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Mayonesa</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/mayonesa-hellmanns-light-400gr/p</Cell>
-      <Cell ss:Type="String">Mayonesa Hellmanns, Light - 380g</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Rosa De Jamaica Hf Bolsa 170 Gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/477994-800-600?v=638423249438000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">21.50</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7404000680010</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Té Medicinales</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/rosa-de-jamaica-hf-bolsa-170-gr/p</Cell>
-      <Cell ss:Type="String">Rosa De Jamaica Hf Bolsa 170 Gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Maiz Calvo Dulce En Grano Lata - 241gr</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454551-800-600?v=638416436535200000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">8.95</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">7410031393713</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Vegetales Enlatados</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/maiz-calvo-dulce-en-grano-lata-241gr/p</Cell>
-      <Cell ss:Type="String">Maiz Calvo Dulce En Grano Lata - 241gr</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-    <Row>
-      <Cell ss:Type="String">Pasta Ina Tipo Tornillo - 200g</Cell>
-      <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531049-800-600?v=638537361234930000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
-      <Cell ss:Type="String">4.15</Cell>
-      <Cell ss:Type="String">Q</Cell>
-      <Cell ss:Type="String">753081005005</Cell>
-      <Cell ss:Type="String">Abarrotes</Cell>
-      <Cell ss:Type="String">Fusilli</Cell>
-      <Cell ss:Type="String">https://www.walmart.com.gt/pasta-ina-tornillo-200gr/p</Cell>
-      <Cell ss:Type="String">Pasta Tipo Tornillo Ina - 200gr. Pasta de trigo elaborada con harina de trigo, agua, huevo y sal. Tiene forma de tornillo y se usa para rellenar y preparar platos como pastas, empanadas, ravioles, etc</Cell>
-      <Cell ss:Type="String"/>
-      <Cell ss:Type="String">6</Cell>
-    </Row>
-  </Table>
-</Worksheet>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="https://www.w3.org/TR/html401/">
+  <Worksheet ss:Name="CognaLearn+Intedashboard">
+    <Table>
+      <Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">title</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">image_link</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">price</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">currency</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sku</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">category</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">sub_category</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">url</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">description</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">availability</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">feed_id</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Azúcar Los Tulipanes, Morena de Caña Fortificada con Vitamina A - 2000g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/509561-800-600?v=638468913976870000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">17.10</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">781179001387</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Azúcar</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/azucar-los-tulipanes-morena-de-ca-a-2000gr/p</Cell>
+        <Cell ss:Type="String">El azucar morena de caña se obtiene a partir de la caña de azúcar. Se trata de un azúcar integral, que conserva todos sus nutrientes. Posee un sabor ligeramente más intenso que el azúcar blanco y un color marrón oscuro. Se recomienda para hornear o para endulzar bebidas calientes.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Azúcar Blanca Caña Real, Fortificada con Vitamina A  - 2500g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531053-800-600?v=638537361270400000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">21.75</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">781179001059</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Azúcar</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/azucar-ca-a-real-blanca-2500g/p</Cell>
+        <Cell ss:Type="String">El azucar es una sustancia que se obtiene a partir de la caña de azúcar. La caña de azúcar se riega con agua para que se ablande, se corta en pedazos y se muelen. El azúcar se puede utilizar para endulzar bebidas y alimentos</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Pasta larga Ina Espagueti - 200gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/400223-800-600?v=638309182236400000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">4.35</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">753081002004</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Spaghetti</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/pasta-ina-espaguetti-200gr/p</Cell>
+        <Cell ss:Type="String">Prepara esta deliciosa pasta y sorprende a tu familia con un platillo especial lleno de amor.?? Cocina con amor, cocina con Pasta Ina</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Frijol Ducal Molido Negro Doy Pack - 993gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/451907-800-600?v=638416329343600000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">14.25</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">88313005301</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Frijoles instantáneos</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/frijol-ducal-molido-negro-doy-pack-993gr/p</Cell>
+        <Cell ss:Type="String">Frijol Ducal Molido Negro Doy Pack - 993gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Sal B&amp;amp;Z Yodada Artesanal - 920gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/243234-800-600?v=637798886876400000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">2.70</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7401010533299</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Sal y Condimentos</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/sal-byz-corriente-920gr/p</Cell>
+        <Cell ss:Type="String">Sal B&amp;Z Yodada Artesanal - 920gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Frijol Albay Negro En Grano - 400gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510112-800-600?v=638469455439570000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">9.90</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7404003090519</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Frijol</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/frijol-albay-negro-en-grano-400gr/p</Cell>
+        <Cell ss:Type="String">Frijol Albay Negro En Grano - 400gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Arroz Gallo Dorado Precocido - 400gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/190565-800-600?v=637629530983000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">8.25</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7401002902676</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Arroz</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/arroz-gallo-dorado-precocido-400gr/p</Cell>
+        <Cell ss:Type="String">Arroz Gallo Dorado Precocido - 400gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Galletas Oreo Sabor Original 36g Uds 12 Pack - 432g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/406435-800-600?v=638316315485770000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">28.40</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7590011151110</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Galletas Dulces</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/galleta-nabisco-oreo-regular-432gr/p</Cell>
+        <Cell ss:Type="String">Doble Galleta Oreo Original de chocolate rellena con Crema Sabor a Vainilla en formato de 12 paquetes individuales de 36g</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Frijol Ducal  Molido Negro Doy Pack - 400gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/476181-800-600?v=638423239331930000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">8.95</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">88313261448</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Frijoles instantáneos</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/frijol-ducal-volteado-negro-doy-pack-400gr/p</Cell>
+        <Cell ss:Type="String">Frijol molido con sabor casero y listos para comer, disponible en variedades rojo y negro. Preparados de forma natural, sin preservantes y fortificado con Hierro + Vitaminas del complejo B.,Frijoles Ducal es la marca preferida de todos los centroamericanos por su sabor casero, conveniencia y practicidad. Ya sea en una cena familiar, una noche de series, una reunión con amigos, el almuerzo en la oficina o una celebración en equipo, Ducal para todos tus momentos.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Arroz Molinero Blanco - 1000gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510419-800-600?v=638469562332430000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">17.20</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7401002900955</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Arroz</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/arroz-molinero-blanco-1000gr/p</Cell>
+        <Cell ss:Type="String">Arroz Molinero Blanco - 1000gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Galleta Gama Dulce Waffer Sabor Vainilla 12 Unidades - 240gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/400264-800-600?v=638309182443370000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">11.25</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">753081008938</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Galletas Dulces</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/waffer-gama-galleta-gama-240gr/p</Cell>
+        <Cell ss:Type="String">Deliciosas galletas Waffle sabor vainilla para acompañar tus postres favoritos. ¡Mixealas como se te de la GAMA!</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Pasta Corta Ina Tipo Codito Mediano - 200g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/509395-800-600?v=638468590016370000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">4.35</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">753081004305</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Pasta Especial</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/pasta-ina-codito-mediano-bolsa-200gr/p</Cell>
+        <Cell ss:Type="String">Prepara esta deliciosa pasta y sorprende a tu familia con un platillo especial lleno de amor.?? Cocina con amor, cocina con Pasta Ina</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Sal Yaesta Refinada De Mesa Yodada - 400gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510122-800-600?v=638469455569030000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">2.20</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">758437069496</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Sal y Condimentos</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/sal-yaesta-refinada-de-mesa-yodada-400gr/p</Cell>
+        <Cell ss:Type="String">Sal Yaesta Refinada De Mesa Yodada - 400gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Salsa Tomate Naturas Con Queso - 90g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/415980-800-600?v=638330998506000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">3.60</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7411000344842</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Salsa para Pasta y Pizza</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/naturas-salsa-tomate-con-queso-106gr/p</Cell>
+        <Cell ss:Type="String">Salsa Queso Natura’s ® lista para usar, es una salsita con el característico sabor del queso, preparada sobre una base de tomates seleccionados y cuidadosamente procesados, con pequeños trocitos de queso y especias que le aportan un sabor balanceado.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Sopa Maggi de Pollo con Fideos Sobre -55 g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/497543-800-600?v=638451853173900000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">2.80</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7613035396203</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Pasta y Sopa Instantánea</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/maggi-sopa-pollo-con-fideos-sobre-57g/p</Cell>
+        <Cell ss:Type="String">Sopa Pollo con Fideos fortificada con hierro. Es baja en grasa y con trocitos de ingredientes que tu conoces como zanahoria, cebolla y ajo. Además puedes añadir los ingredientes que mas te gusten y disfrutar de una deliciosa sopa un sabor único. - La reducción de tamaño del empaque de Sopas y Cremas Maggi, contribuyo a reducir el uso de +60 toneladas de plástico virgen anuales en Nestlé Centroamérica. Recuperamos a gran escala los empaques polilaminados posconsumo. Hoy recibimos este material en más de 20 puntos de acopio permanentes en todo el país. Incluida la estación de reciclaje en Walmart Curridabat.Empaques reducidos significativamente, reuso inteligente de los materiales y\u002Fo reciclables, y\u002Fo que evitan el desperdicio de alimentos</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">3 Pack Atún Calvo En Agua - 426gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454883-800-600?v=638416438425630000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">33.00</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7410031397315</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Atún y Pescado</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/3-pack-atun-calvo-en-agua-426gr/p</Cell>
+        <Cell ss:Type="String">3 Pack Atún Calvo En Agua - 426gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Galleta Gama Salada - 192gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/452006-800-600?v=638416329878230000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">8.65</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">753079200306</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Galletas Saladas</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/galleta-gama-salada-192gr/p</Cell>
+        <Cell ss:Type="String">Galleta Gama Salada - 192gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Salsa Tomate Naturas Ranchera - 90g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/414469-800-600?v=638328299888070000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">3.60</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7411000344859</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Salsa para Pasta y Pizza</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/salsita-naturas-de-tomate-ranchera-106gr/p</Cell>
+        <Cell ss:Type="String">La Salsa Ranchera Natura’s ® es una salsita tradicional y lista para usar, \ncon los auténticos sabores centroamericanos. Está preparada sobre una \nbase de tomates seleccionados y cuidadosamente procesados, a la que \nse añade una mezcla de trozos de vegetales como cebolla, chile, jalapeño \ny especias, que aportan el sabor característico y una nota picante que la \nhace irresistible. Su sabor es muy versátil y se puede usar en pollos, \ncarnes de res o de cerdo, en pastas, tortillas o enchiladas, entre otras \nrecetas.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Pasta larga Litaliana Espagueti - 200gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/426942-800-600?v=638366639258100000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">2.80</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">753081062008</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Spaghetti</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/pasta-litaliana-espagueti-200-gr/p</Cell>
+        <Cell ss:Type="String">Espaguetti L'Italiana, el sabor que abunda más.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Galletas Chiky Pozuelo, Chocolate -480g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/483978-800-600?v=638428521721100000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">24.05</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">86581010881</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Galletas Dulces</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/galleta-pozuelo-chiky-chocolate-480gr/p</Cell>
+        <Cell ss:Type="String">Galleta de vainilla con cobertura sabor a chocolate (12 paquetes)</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Canela Sasson Raja Verde - 22gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/452204-800-600?v=638416330992470000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">8.20</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">760573092917</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Especias</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/canela-sasson-raja-verde-22gr/p</Cell>
+        <Cell ss:Type="String">Canela Sasson Raja Verde - 22gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Arroz Gallo Dorado Precocido - 1kg</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/190610-800-600?v=637629531405500000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">18.95</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7401002911128</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Arroz</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/arroz-gallo-dorado-precocido-1kg/p</Cell>
+        <Cell ss:Type="String">Arroz Gallo Dorado Precocido - 1kg</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Rosa De Jamaica Hf Santa Ana Bols 113 Gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510067-800-600?v=638469455263000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">21.00</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7404000940015</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Té Medicinales</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/rosa-de-jamaica-hf-santa-ana-bols-113-gr/p</Cell>
+        <Cell ss:Type="String">Rosa De Jamaica Hf Santa Ana Bolsa</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Nachos Los Cebollines Original - 390gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/447256-800-600?v=638415141489300000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">22.75</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7406309001824</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Papas y frituras</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/nachos-los-cebollines-original-390gr/p</Cell>
+        <Cell ss:Type="String">Nachos Los Cebollines Original - 390gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Pasta Roma Tipo Espaguetti - 200g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/508182-800-600?v=638467835319030000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">4.35</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">731701101047</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Spaghetti</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/pasta-roma-espaguetti-200gr/p</Cell>
+        <Cell ss:Type="String">Pasta Roma es una pasta de espagueti de 200 gramos. Es una pasta hecha a mano con harina de trigo, huevos, agua y sal. Tiene una textura fina y es perfecta para preparar una variedad de platos italianos - La organización a través de los años ha venido ejecutando proyectos que contribuyan a minimizar el impacto en el cambio climático, así su adaptación, de los cuales se desglosa a continuación:   Instalación de paneles solares en el centro de distribución en el Coyol de Alajuela.  \u002F Se llevan controles y registros sobre los consumos e indicadores de desempeño ambiental, con el fin de minimizar la cantidad de reprocesos, consumo de materias primas a un nivel óptimo esto incluye aguas, energía eléctrica y combustibles fósiles. \u002F  Instalación de un  sistema de captación de hollín en las calderas de la planta de producción con el fin de capturar el particulado que va hacia la atmósfera.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Sal Sabemas De Cocina - 907gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454665-800-600?v=638416437129470000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">2.55</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7406131006271</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Sal y Condimentos</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/sal-sabemas-de-cocina-907gr/p</Cell>
+        <Cell ss:Type="String">Sal Seca Granulada es un producto elaborado con sal marina y otros ingredientes de la mejor calidad, que le dan un sabor único. Es ideal para condimentar carnes, aves, pescados, sopas, guisados y demás platos. Tiene una presentación en forma de gránulos, que le permite liberar el sabor de forma gradual. Pesa 907gr.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Arroz Molinero Blanco  - 400gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/452167-800-600?v=638416330788100000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">7.45</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7401002902669</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Arroz</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/arroz-molinero-blanco-400gr/p</Cell>
+        <Cell ss:Type="String">Arroz Molinero Blanco  - 400gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Azúcar Caña Real, Blanca - 500g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/509544-800-600?v=638468913901900000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">4.60</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">781179001035</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Azúcar</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/azucar-ca-a-real-blanca-500gr/p</Cell>
+        <Cell ss:Type="String">Azucar Caña Real Blanca - 500gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Cereal Kellogg&amp;#x27;s® Corn Flakes - 800 g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/541342-800-600?v=638548500316870000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">33.75</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7501008041697</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Cereal Dulce</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/cereal-corn-flakes-kellogg-800gr/p</Cell>
+        <Cell ss:Type="String">Cereal Corn Flakes Kellogg - 800gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Salsa Tomate Naturas Italiana Clásica -  90g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/415368-800-600?v=638330784081870000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">3.60</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7411000344293</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Salsa para Pasta y Pizza</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/salsa-preparada-naturas-italiana-clasica-106gr/p</Cell>
+        <Cell ss:Type="String">La Salsa Italiana Natura’s ® es una salsita lista para usar, preparada sobre una base de tomates seleccionados y cuidadosamente procesados, combinados con albahaca en pequeños trocitos que le aportan toda la frescura del sabor italiano.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Masa Maseca - 2000gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454826-800-600?v=638416438097330000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">32.75</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7401056950531</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Harina de Trigo y Maíz</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/harina-maseca-de-maiz-bolsa-4-4lb/p</Cell>
+        <Cell ss:Type="String">Maseca es el auténtico sabor de nuestras tradiciones y los platillos que nos hacen sentir en casa, porque es nuestra harina elaborada 100% con maíz seleccionado, nuestro alimento fundamental por siglos. Con Maseca en tus manos nutres a tu familia y transformas los momentos con los deliciosos sabores de nuestras tortillas, pupusas, tamales, biscochos y más delicias de nuestra cocina centroamericana</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Aceite Mazola Natural Blend - 800ml</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531046-800-600?v=638537361205900000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">23.25</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">750894621606</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Aceite de Semillas y Vegetal</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/aceite-mazola-natural-blend-800ml/p</Cell>
+        <Cell ss:Type="String">Aceite Mazola Natural Blend - 800ml</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Frijol Albay Rojo En Grano - 400gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510496-800-600?v=638469777821700000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">11.50</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7404003090588</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Frijol</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/frijol-albay-rojo-en-grano-400gr/p</Cell>
+        <Cell ss:Type="String">Frijol Albay Rojo En Grano - 400gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Boquitas Milpa Real Tostadas Onduladas - 360gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454630-800-600?v=638416436927470000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">19.80</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7441029500141</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Papas y frituras</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/boquitas-milpa-real-tostadas-360gr/p</Cell>
+        <Cell ss:Type="String">Boquitas Milpa Real Tostadas 360 gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Sopa Laky Men De Pollo Instantanea - 75gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/480781-800-600?v=638423555527600000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">5.65</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7404001800011</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Pasta y Sopa Instantánea</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/sopa-laky-men-de-pollo-instantanea-75gr/p</Cell>
+        <Cell ss:Type="String">Sopa Laky Men De Pollo Instantanea - 75gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Pasta Roma Plumas - 200gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531037-800-600?v=638537361108200000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">5.05</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">731701101467</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Fusilli</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/pasta-roma-plumas-200gr/p</Cell>
+        <Cell ss:Type="String">Pasta Roma Plumas - 200gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Aceite Borges Oliva Extra Virgen Botella - 250ml</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/312852-800-600?v=638019098861870000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">45.00</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">8410179100050</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Aceite de Oliva</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/aceite-borges-oliva-extra-virgen-botella-250ml/p</Cell>
+        <Cell ss:Type="String">Aceite Borges Oliva Extra Virgen Botella - 250ml</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Frijol Ducal Rojo Molido Doy Pack - 993gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/276237-800-600?v=637903318219330000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">15.50</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">88313005318</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Frijoles instantáneos</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/frijol-ducal-rojo-molido-doy-pack-993gr/p</Cell>
+        <Cell ss:Type="String">Frijol Ducal Rojo Molido Doy Pack - 993gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Galleta Salada Gama Soda 8 Unidades - 192gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/374963-800-600?v=638228722506830000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">8.65</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">753079200009</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Galletas Saladas</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/galleta-gama-soda-192gr/p</Cell>
+        <Cell ss:Type="String">Crujientes y deliciosas, solas o acompañadas, tus galletas favoritas, combinalas cómo se te dé la GAMA.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Hot Cake Gold Medal Sabor Original - 1350gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/547261-800-600?v=638557038134500000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">32.50</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7099940150404</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Para Hot Cakes</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/hot-cake-gold-medal-original-1350gr/p</Cell>
+        <Cell ss:Type="String">Consentir en cualquier momento sabe mejor con nuestra premezclas Hot Cake Mix, la forma más fácil de hacer panqueques para compartir.,Gold Medal, la base para consentirte.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Pasta Ina Chao Mein sin Soya -180gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/390332-800-600?v=638283262064000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">5.00</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">753081100007</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Pasta Especial</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/pasta-ina-chao-mein-sin-soya-180gr/p</Cell>
+        <Cell ss:Type="String">Chao Mein Ina, es un fideo producido a base de harina de trigo. En su elaboración se aplican buenas prácticas de manufactura adecuadas para la producción de pastas asiáticas que son nuestra especialidad</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Harina de Maíz Maseca Extra Suave - 820gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454868-800-600?v=638416438333000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">13.50</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7401056950678</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Harina de Trigo y Maíz</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/harina-de-maiz-maseca-820gr/p</Cell>
+        <Cell ss:Type="String">Maseca Extra Suave es una harina 100% puro maíz natural, brinda mayor suavidad en el amasado y facilidad de llegarle al punto en comparación con otras harinas de maíz, permitiéndole a la consumidora preparar fácilmente unas ricas y suavecitas tortillas para complacer a su familia y a un precio accesible.elaborada mediante un proceso especializado que le da la consistencia ideal, más fina, que brinda una mayor suavidad.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Avena Mosh Quaker, Nutremas - 900g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531062-800-600?v=638537361325630000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">20.00</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">803275305562</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Avena y Granola</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/avena-quaker-nutremas-mosh-900gr/p</Cell>
+        <Cell ss:Type="String">Avena Mosh Quaker NUTREMAS que te ayuda a prevenir la anemia, con hierro, vitamina B12 y ácido fólico. Para que inicies tu día con más enegía, disfrutando de todos los beneficios que ofrece la avena!</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Tostaditas Sanissimo Maíz - 144gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/502520-800-600?v=638458765099930000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">21.00</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">658480001101</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Galletas Saladas</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/galleta-de-maiz-sanissimo-salmas-144gr/p</Cell>
+        <Cell ss:Type="String">Galleta Tostaditas Sanissimo Maiz 144 Gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Six Pack Bebida Incaparina Sabor Original</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/307656-800-600?v=638007651743370000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">16.10</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7406007082774</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Bebida de Soya</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/six-pack-bebida-incaparina-sabor-original/p</Cell>
+        <Cell ss:Type="String">Six Pack Bebida Incaparina Sabor Original</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Mezcla Para Hot Cakes Gold Medal, Sabor Original - 908g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/510089-800-600?v=638469455347270000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">28.00</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7099940150145</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Para Hot Cakes</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/mezcla-gold-medal-panqueque-original-908gr/p</Cell>
+        <Cell ss:Type="String">Consentir en cualquier momento sabe mejor con nuestra premezclas Hot Cake Mix, la forma más fácil de hacer panqueques para compartir.,Gold Medal, la base para consentirte.</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Mayonesa Hellmanns, Light - 380g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454615-800-600?v=638416436849530000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">18.50</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7411000342961</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Mayonesa</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/mayonesa-hellmanns-light-400gr/p</Cell>
+        <Cell ss:Type="String">Mayonesa Hellmanns, Light - 380g</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Rosa De Jamaica Hf Bolsa 170 Gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/477994-800-600?v=638423249438000000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">21.50</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7404000680010</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Té Medicinales</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/rosa-de-jamaica-hf-bolsa-170-gr/p</Cell>
+        <Cell ss:Type="String">Rosa De Jamaica Hf Bolsa 170 Gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Maiz Calvo Dulce En Grano Lata - 241gr</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/454551-800-600?v=638416436535200000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">8.95</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">7410031393713</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Vegetales Enlatados</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/maiz-calvo-dulce-en-grano-lata-241gr/p</Cell>
+        <Cell ss:Type="String">Maiz Calvo Dulce En Grano Lata - 241gr</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+      <Row>
+        <Cell ss:Type="String">Pasta Ina Tipo Tornillo - 200g</Cell>
+        <Cell ss:Type="String">https://walmartgt.vtexassets.com/arquivos/ids/531049-800-600?v=638537361234930000&amp;amp;width=800&amp;amp;height=600&amp;amp;aspect=true</Cell>
+        <Cell ss:Type="String">4.15</Cell>
+        <Cell ss:Type="String">Q</Cell>
+        <Cell ss:Type="String">753081005005</Cell>
+        <Cell ss:Type="String">Abarrotes</Cell>
+        <Cell ss:Type="String">Fusilli</Cell>
+        <Cell ss:Type="String">https://www.walmart.com.gt/pasta-ina-tornillo-200gr/p</Cell>
+        <Cell ss:Type="String">Pasta Tipo Tornillo Ina - 200gr. Pasta de trigo elaborada con harina de trigo, agua, huevo y sal. Tiene forma de tornillo y se usa para rellenar y preparar platos como pastas, empanadas, ravioles, etc</Cell>
+        <Cell ss:Type="String"/>
+        <Cell ss:Type="String">7</Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
