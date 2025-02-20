@@ -6,15 +6,15 @@
     "properties": {
       "headline": {
         "type": "string",
-        "description": "Título llamativo del producto (máximo 10 palabras)"
+        "description": "Engaging product headline (maximum 10 words)"
       },
       "description": {
         "type": "string",
-        "description": "Descripción persuasiva del producto (máximo 20 palabras)"
+        "description": "Persuasive product description (maximum 20 words)"
       },
       "cta": {
         "type": "string",
-        "description": "Llamado a la acción (máximo 3 palabras)"
+        "description": "Call to action (maximum 3 words)"
       }
     },
     "required": [
