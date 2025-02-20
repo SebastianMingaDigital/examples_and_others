@@ -1,0 +1,27 @@
+{
+  "name": "ad_response",
+  "strict": true,
+  "schema": {
+    "type": "object",
+    "properties": {
+      "headline": {
+        "type": "string",
+        "description": "Título llamativo del producto (máximo 10 palabras)"
+      },
+      "description": {
+        "type": "string",
+        "description": "Descripción persuasiva del producto (máximo 20 palabras)"
+      },
+      "cta": {
+        "type": "string",
+        "description": "Llamado a la acción (máximo 3 palabras)"
+      }
+    },
+    "required": [
+      "headline",
+      "description",
+      "cta"
+    ],
+    "additionalProperties": false
+  }
+}
